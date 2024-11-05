@@ -1,0 +1,3 @@
+課題研究でAndroidアプリ「変わり種電卓」を製作中です。開発環境はAndroidStudio
+2024/11/15　
+見た目を製作中です。actibity_main.xmlを開くと成果がわかると思います。テーブルやボタンにidを設定して、MainActivity.javaでidを取得して、ボタンを押したときのアクションを追加しました。
